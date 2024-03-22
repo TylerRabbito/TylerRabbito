@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [Introduction to Cybersecurity Job Simulation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_sKfbDLnrunRfmsu4r_1711052585287_completion_certificate.pdf)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
