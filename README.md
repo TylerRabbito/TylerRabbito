@@ -5,13 +5,12 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Manipulate HTML](https://github.com/TylerRabbito/modify-email-from-PHP-Script/blob/main/README.md)
 
-<h2>📺 Certifications </h2>
+<h2>📺 Education & Certifications </h2>
 
-- [Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_sKfbDLnrunRfmsu4r_1711052585287_completion_certificate.pdf)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA A+](https://www.credly.com/badges/87731ed4-9546-49c3-a139-b54a9e60297e)
+- [CompTIA Security+](https://www.credly.com/badges/28686260-2d89-4e3e-8e76-c7549b5ea056)
+- [ Certificate - Computer Information Systems - Networking Concentration](https://imgur.com/a/T1aqnh7)
+
 
 <h2> 🤳 Connect with me:</h2>
 
