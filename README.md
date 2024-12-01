@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tyler!
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Manipulate HTML](https://github.com/TylerRabbito/modify-email-from-PHP-Script/blob/main/README.md)
