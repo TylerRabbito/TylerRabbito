@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/TylerRabbito/ActiveDirectoryLab/blob/main/README.md)
   - [Manipulate HTML](https://github.com/TylerRabbito/modify-email-from-PHP-Script/blob/main/README.md)
 
 <h2>📺 Education & Certifications </h2>
