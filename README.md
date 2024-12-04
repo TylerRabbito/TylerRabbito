@@ -74,7 +74,6 @@ My long-term goal is to work in IT support and system administration, ultimately
   - [LinkedIn Learning: Networking Fundamentals](https://www.linkedin.com/learning/networking-fundamentals-2)
 - **Books:**
   - *CompTIA A+ Certification All-in-One Exam Guide* by Mike Meyers
-  - *The Phoenix Project* by Gene Kim (Great for IT professionals!)
 
 ---
 
