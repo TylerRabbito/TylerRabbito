@@ -26,4 +26,4 @@ I am currently seeking a Helpdesk role where I can apply this hands-on experienc
 
 ## 📬 Let's Connect
 
-*   🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tyler-rabbito)
+*   🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tylerrabbito)
